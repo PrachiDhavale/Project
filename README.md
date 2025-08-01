@@ -1,2 +1,2 @@
-# Project
-Analyze the relationship between Bitcoin market sentiment (Fear/Greed) and trader performance using historical trade data to uncover patterns and generate insights that support smarter, sentiment-driven trading strategies.
+#Data Science Projects
+This repository contains a collection of data science projects showcasing skills in data cleaning, visualization, statistical analysis, machine learning, and model evaluation. Each project demonstrates practical applications of tools like Python, Pandas, NumPy, Matplotlib, Scikit-learn, and more.
